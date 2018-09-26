@@ -27,7 +27,7 @@ public class HelloWorld
     //Run method removeBigNUmbers
     List<Integer> newList = removeBigNumbers(list);
 
-	System.out.println("\nNEW LIST:");
+	//System.out.println("\nNEW LIST:");
     for(Integer y : newList) {
       System.out.println(y);
     }
